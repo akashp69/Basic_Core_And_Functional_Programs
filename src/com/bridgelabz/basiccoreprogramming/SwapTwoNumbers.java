@@ -4,6 +4,9 @@ package com.bridgelabz.basiccoreprogramming;
 import java.util.Scanner;
 
 public class SwapTwoNumbers {
+    /**
+    *This  Method is Created For Swap two Numbers
+    */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number you need to swap: a;b");
