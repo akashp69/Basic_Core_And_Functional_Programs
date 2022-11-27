@@ -3,6 +3,9 @@ package com.bridgelabz.basiccoreprogramming;
 import java.util.Scanner;
 
 public class PowerOfTwo {
+    /**
+    *This  Method is Created For Find The Powers Of 2
+    */
     public static void main(String[] args) {
         System.out.println("WELCOME TO THE POWER OF 2 PROGRAM");
         Scanner scanner = new Scanner(System.in);
